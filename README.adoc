@@ -1,0 +1,5 @@
+= JSON schema generation
+
+Simple proof of concept to use Java 16 records with https://github.com/FasterXML/jackson[Jackson JSON annotations] and https://github.com/victools/jsonschema-generator[VicTools JSON schema generator].
+
+Requires http://jdk.java.net/17/[Java 17ea].
